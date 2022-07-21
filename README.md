@@ -26,7 +26,3 @@
 </div>
 
 
-
-<div align ="center" >
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCocoring%2Fhit-counter&count_bg=%233BAC95&title_bg=%233B49A6&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</div>
